@@ -1,0 +1,9 @@
+#**WRITING FIRST LINE IN JAVA SCRIPT**#
+
+1. open the browser like crome.
+2. right click on the page and select the "inspect" option.
+3. then crome developer tools will be open.
+4. click on console.
+5. write --[ alert("Hello World!") ] and press enter.
+6. [ CTRL + Shift + I ] this sortcut will automatically opens uu the console.
+7. you can do instant calculations on this console.
